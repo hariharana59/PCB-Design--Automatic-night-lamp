@@ -1,5 +1,3 @@
-![exp 2 a](https://github.com/hariharana59/PCB-Design--Automatic-night-lamp/assets/144980130/cf9c232c-05f2-4e0d-a59d-b25659aa52e5)# PCB-Design--Automatic-night-lamp
-
 # Aim
 To design a PCB circuit for automatic night lamp using eagle sofware.
 
