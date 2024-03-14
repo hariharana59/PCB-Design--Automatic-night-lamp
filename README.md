@@ -1,4 +1,4 @@
-# PCB-Design--Automatic-night-lamp
+![exp 2 a](https://github.com/hariharana59/PCB-Design--Automatic-night-lamp/assets/144980130/cf9c232c-05f2-4e0d-a59d-b25659aa52e5)# PCB-Design--Automatic-night-lamp
 
 # Aim
 To design a PCB circuit for automatic night lamp using eagle sofware.
@@ -41,13 +41,10 @@ During the daytime when there is a light, the LDR has very low resistance and al
 # Output
 
 ### Schematic diagram
-
-
+![exp 2 b](https://github.com/hariharana59/PCB-Design--Automatic-night-lamp/assets/144980130/3c81d752-a7f4-4b18-ada6-b62c60c0d80d)
 
 ### Layout diagram
-
-
-
+![exp 2 a](https://github.com/hariharana59/PCB-Design--Automatic-night-lamp/assets/144980130/a5337406-43e8-496a-9d48-c507cbdd9bc8)
 
 
 # Result
